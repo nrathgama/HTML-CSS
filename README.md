@@ -1,7 +1,7 @@
 # HTML-CSS
-Animal trading card project
-PROJECT SPECIFICATION
-Animal Trading Cards
+**Animal trading card project**
+- PROJECT SPECIFICATION
+- Animal Trading Cards
 
 
 **Design**
