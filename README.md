@@ -1,5 +1,5 @@
 # HTML-CSS
-**Animal trading card project**
+**Animal trading card project - UDACITY Intro To Programming Nanodegree Program**
 - PROJECT SPECIFICATION
 - Animal Trading Cards
 
